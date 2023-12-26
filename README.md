@@ -1,5 +1,5 @@
 > [!WARNING]
-> How many times do I have to tell you to stop using Aimmy in Fortnite! If you keep using it in Fortnite, it's not our fault you get banned!
+> Stop using vxx!
 
 <div align="center">
   
@@ -8,25 +8,25 @@
       <img width="100%" src="https://raw.githubusercontent.com/MarsQQ/Aimmy/master/readme_assets/AimmyBanner.png"></a>
   </p>
 
-Aimmy is a multi-functional AI-based Aim Aligner that was developed by BabyHamsta & Nori for the purposes of making gaming more accessible for a wider audience.
+vxx is a multi-functional AI-based Aim Aligner that was developed by jin3te for the purposes of making a universal external aimbot for so much games.
 
-Unlike most products of a similar caliber, Aimmy utilizes DirectML, ONNX, and YOLOV8 to detect players and is written in C# instead of Python. This makes it incredibly fast and efficient, and is one of the only AI Aim Aligners that runs well on AMD GPUs, which would not be able to use hardware acceleration otherwise due to the lack of CUDA support. 
+Unlike most products of a similar caliber, vxx utilizes DirectML, ONNX, and YOLOV8 to detect players and is written in C# instead of Python. This makes it incredibly fast and efficient, and is one of the only AI Aim Aligners that runs well on AMD GPUs, which would not be able to use hardware acceleration otherwise due to the lack of CUDA support. 
 
-Aimmy also has a myriad of [features](#features) that sets itself apart from other AI Aim Aligners, like the ability to hotswap models, and settings that allow you to adjust your aiming accuracy. 
+vxx also has a myriad of [features](#features) that sets itself apart from other AI Aim Aligners, like the ability to hotswap models, and settings that allow you to adjust your aiming accuracy. 
 
-Aimmy is 100% free to use, ad-free, and is actively not for profit. Aimmy is not, and will never be for sale, and is considered a **source-available** product as **we actively discourage other developers from making profit-focused forks of Aimmy**.
+vxx is 100% free to use, ad-free, and is actively not for profit. Aimmy is not, and will never be for sale, and is considered a **source-available** product as **we actively discourage other developers from making profit-focused forks of vxx**.
 
-Join our Discord: https://discord.gg/Aimmy
+Join our Discord: https://discord.com/invite/QyQ8GNZ59D
 
-If you want to show Aimmy to your friends, send them to our website: https://supercomet.cc/
+If you want to show vxx to your friends, send them to our website: https://supercomet.cc/
 
 ## Table of Contents
-[What is the purpose of Aimmy?](#what-is-the-purpose-of-aimmy) | [How does Aimmy Work?](#how-does-aimmy-work) | [Features](#features) | [Setup](#setup) | [How is Aimmy better than similar AI-Based tools?](#how-is-aimmy-better-than-similar-ai-based-tools) | [What is the Web Model?](#what-is-the-web-model) | [How do I train my own model?](#how-do-i-train-my-own-model) | [How do I upload my model to the "Downloadable Models" menu](#how-do-i-upload-my-model-to-the-downloadable-models-menu)
+[What is the purpose of vxx?](#what-is-the-purpose-of-aimmy) | [How does vxx Work?](#how-does-aimmy-work) | [Features](#features) | [Setup](#setup) | [How is vxx better than similar AI-Based tools?](#how-is-aimmy-better-than-similar-ai-based-tools) | [What is the Web Model?](#what-is-the-web-model) | [How do I train my own model?](#how-do-i-train-my-own-model) | [How do I upload my model to the "Downloadable Models" menu](#how-do-i-upload-my-model-to-the-downloadable-models-menu)
 
 
 
-## What is the purpose of Aimmy?
-### Aimmy was designed for Gamers who are at a severe disadvantage over normal gamers.
+## What is the purpose of vxx?
+### vxx was designed for Gamers who are at a severe disadvantage over normal gamers.
 ### This includes but is not limited to:
 - Gamers who are physically challenged
 - Gamers who are mentally challenged
@@ -37,12 +37,12 @@ If you want to show Aimmy to your friends, send them to our website: https://sup
 - Gamers who perform poorly in FPS games
 - Gamers who play for long periods in hot environments, causing greasy hands that make aiming difficult 
 
-## How does Aimmy Work?
-Aimmy works by using AI Image Recognition to detect opponents, pointing the player towards the direction of an opponent accordingly. 
+## How does vxx Work?
+vxx works by using AI Image Recognition to detect opponents, pointing the player towards the direction of an opponent accordingly. 
 
 The gamer is now left to perform any actions they believe is necessary.
 
-Additionally, a Gamer that uses Aimmy is also given the option to turn on Auto-Trigger. Auto-Trigger relieves the need to repeatedly tap the HID to shoot at a player. This is especially useful for physically challenged users who may have trouble with this action.
+Additionally, a Gamer that uses vxx is also given the option to turn on Auto-Trigger. Auto-Trigger relieves the need to repeatedly tap the HID to shoot at a player. This is especially useful for physically challenged users who may have trouble with this action.
 
 ## Features
 - AI Aim Aligning
@@ -60,9 +60,9 @@ Additionally, a Gamer that uses Aimmy is also given the option to turn on Auto-T
 ## Setup
 - Download and Install the x64 version of [.NET Runtime 7.0.X.X](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 - Download and Install the x64 version of [Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- Download Aimmy from [Releases](https://github.com/MarsQQ/Aimmy/releases) (Make sure it's the Aimmy zip and not Source zip)
-- Extract the Aimmy.zip file
-- Run Aimmy.exe
+- Download vxx from [Releases](https://github.com/MarsQQ/Aimmy/releases) (Make sure it's the Aimmy zip and not Source zip)
+- Extract the vxx.zip file
+- Run vxx.exe
 - Choose your Model and Enjoy :)
 
 ## How is Aimmy better than similar AI-Based tools?
@@ -146,5 +146,5 @@ Create the pull request (again)
 
 You are done! We will review your pull request and your model will be added in 24-48 hours. If you would like to remove your model from the "Downloadable Models" tab, you may make another pull request or contact us on the Issues tab.
 
-For anyone who does this, thank you so much =D, Aimmy genuinely thrives with community contributions and support, and making and sharing your Aimmy models genuinely means a lot to us! Thank you!
+For anyone who does this, thank you so much =D, vxx genuinely thrives with community contributions and support, and making and sharing your Aimmy models genuinely means a lot to us! Thank you!
 </div>
